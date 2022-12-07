@@ -31,3 +31,12 @@ const printNumbers = (initialNumber) => {
 };
 printNumbers(6);
 ```
+
+**Work experience:**
+
+*Not related to internet technology...*
+
+**Education and courses:**
+
+1. [Web school: testing](https://www.learnqa.ru)
+2. [Красноярский аграрный университет](http://www.kgau.ru)
