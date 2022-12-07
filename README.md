@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Showmeyourbobs.github.io/rsschool-cv/cv
