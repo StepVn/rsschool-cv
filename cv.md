@@ -1,8 +1,8 @@
-**[Rsschool-cv](https://github.com/Showmeyourbobs/rsschool-cv)**
--
+
 **Stepan Pavlov**
-=
----
+===
+
+----
 
 **Contacts:**
 - Phone number: 8-983-287-94-40
@@ -46,4 +46,4 @@ printNumbers(6);
 - Russian
 - English B1
 
-[![Логотип](https://app.rs.school/static/images/logo-rsschool3.png)](https://rs.school)
+[![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_GdFt6s0pm05nHQ7ynvyioBy-XwGvzNdSA&usqp=CAU)](https://rs.school)
