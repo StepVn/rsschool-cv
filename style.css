@@ -132,14 +132,29 @@ html {
   font-size: 17px;
   color: rgb(208, 226, 49);
 }
-.footer {
-  background-color: rgb(121, 121, 121);
-  padding: 20px;
+.link-rss {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 90%;
 }
-.rss {
-  width: 40px;
-  height: 40px;
-  background-image: url("./assets/svg/rsslink.svg");
-  background-size: contain;
-  background-repeat: no-repeat;
+.github {
+  color: rgb(208, 226, 49);
+  line-height: 45px;
+}
+.footer {
+  background-color: rgb(134, 134, 134);
+  padding: 1px;
+}
+.pre-code {
+  margin: 0;
+  padding: 0;
+}
+.section-title {
+  margin-bottom: 20px;  
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
 }
